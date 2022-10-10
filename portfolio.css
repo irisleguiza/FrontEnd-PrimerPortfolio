@@ -1,0 +1,90 @@
+
+.header{background:yellow;
+}
+.header img{padding-left: 5%;
+padding-bottom: 2%;}
+.banner {background-color: black;
+}
+
+.banner img {padding-left: 17%;
+             float: center;}
+
+.sobremi{color:black;
+         background-color: yellow;
+         font-size: 10px;
+         padding: 40px;
+         text-align: center;
+         margin: 40 px;        
+}
+
+h1{ color:black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;   
+}
+
+h2{ color:black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;   
+}
+
+h3{color:black;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 15px;
+}
+
+.formacion{color:black;
+             background-color:white;    
+             padding:100px;
+             text-align: left;
+             border:15px solid yellow;
+             
+}
+
+.formacion img{ height: 700px;
+                width: 700px;
+                float: right;
+}
+
+.proyectos{color:black;
+           background-color: white;
+           padding: 100px;   
+           text-align: left; 
+           border:15px solid yellow;
+           
+}
+.proyectos img{ height: 500px;
+                width: 500px;
+                float: left;
+}
+
+.hardskills{color:black;
+            background-color:white;
+            padding-left: 20px;
+            border:15px solid yellow;   
+    }
+
+.hardskills img{ height: 350px; 
+        width: 350px;   
+        float: right;}
+
+.softskills{ color:black;    
+             background-color: white;
+             padding-left: 20px;
+             border:15px solid yellow;
+    }
+.softskills img{ height: 400px; 
+        width: 400px;   
+        float: right;}
+
+.contacto{color:white;
+          font-family: 'Open Sans', sans-serif;
+          font-size: 15px;
+          background-color:black;
+          padding-bottom: 40px;
+          padding-top: 40px;    
+          padding-left: 60px;    
+          padding-right: 60px;
+}
+
+
+
